@@ -1,0 +1,22 @@
+{
+  "name": "test-demo",
+  "version": "1.0.0",
+  "description": "Demo cho Kiểm thử",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cuongjuno/demo_playwright.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cuongjuno/demo_playwright/issues"
+  },
+  "homepage": "https://github.com/cuongjuno/demo_playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.16.3"
+  }
+}
